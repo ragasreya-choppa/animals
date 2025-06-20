@@ -4,4 +4,4 @@ __________
 
 - - -
 
-** I love my pet animals **
+**I love my pet animals**
